@@ -1,6 +1,6 @@
 # Welcome to Translit 👋
 
-Welcome to the official GitHub repository for Translit, an innovative online transliteration service. We specialize in converting text between different alphabets and languages, offering support for Russian, Ukrainian, Belarusian, Greek, Armenian, Georgian, and Bulgarian.
+Welcome to the official GitHub repository for [Translit](https://translit.cc/), an innovative online transliteration service. We specialize in converting text between different alphabets and languages, offering support for Russian, Ukrainian, Belarusian, Greek, Armenian, Georgian, and Bulgarian.
 
 ## 🙋‍♀️ About Us
 
